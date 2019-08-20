@@ -2,7 +2,7 @@
 
 Notes from following the tutorial from CG Geek.
 
-https://www.youtube.com/watch?v=ppASl6yaguU
+1. https://www.youtube.com/watch?v=ppASl6yaguU
 
 - Left click to select
 - Shift+right click to place 3D cursor
@@ -46,3 +46,8 @@ https://www.youtube.com/watch?v=ppASl6yaguU
 - Object context menu > shade smooth
 - Solidify modifier to add thickness to mesh made of only faces
 - E in edit to extrude, EX, EY, EZ
+
+2. TODO
+3. TODO
+4. https://www.youtube.com/watch?v=bAqlVMXrpek
+5. https://www.youtube.com/watch?v=g4LmR-TYxVo
