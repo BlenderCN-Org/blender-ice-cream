@@ -51,3 +51,4 @@ Notes from following the tutorial from CG Geek.
 3. TODO
 4. https://www.youtube.com/watch?v=bAqlVMXrpek
 5. https://www.youtube.com/watch?v=g4LmR-TYxVo
+6. https://www.youtube.com/watch?v=zEJUCd7sUAw
