@@ -2,7 +2,7 @@
 
 Notes from following the tutorial from CG Geek.
 
-1. https://www.youtube.com/watch?v=ppASl6yaguU
+## [Part 1: 3D Basics](https://www.youtube.com/watch?v=ppASl6yaguU)
 
 - Left click to select
 - Shift+right click to place 3D cursor
@@ -47,8 +47,18 @@ Notes from following the tutorial from CG Geek.
 - Solidify modifier to add thickness to mesh made of only faces
 - E in edit to extrude, EX, EY, EZ
 
-2. TODO
-3. TODO
-4. https://www.youtube.com/watch?v=bAqlVMXrpek
-5. https://www.youtube.com/watch?v=g4LmR-TYxVo
-6. https://www.youtube.com/watch?v=zEJUCd7sUAw
+## [Part 2: Modifiers](https://www.youtube.com/watch?v=EvTrZ0soo_Q)
+
+## [Part 3: Particle Instancing](https://www.youtube.com/watch?v=B_xwv420iJo)
+
+## [Part 4: Easy Node Materials](https://www.youtube.com/watch?v=bAqlVMXrpek)
+
+## [Part 5: Easy Procedural Textures](https://www.youtube.com/watch?v=g4LmR-TYxVo)
+
+## [Part 6: EEVEE Rendering](https://www.youtube.com/watch?v=zEJUCd7sUAw)
+
+## To-Do
+
+### Cross-link with the Blender Guru Donut tutorial repo
+
+### Do it
