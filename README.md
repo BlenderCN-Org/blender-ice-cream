@@ -1,5 +1,7 @@
 # Blender Ice Cream
 
+[**LIVE**](https://tomashubelbauer.github.io/blender-ice-cream)
+
 Notes from following the tutorial from CG Geek.
 
 ## [Part 1: 3D Basics](https://www.youtube.com/watch?v=ppASl6yaguU)
